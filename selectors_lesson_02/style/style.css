@@ -22,7 +22,11 @@ p span{
     background: green;
     color: greenyellow;
 }
-
+.blue{
+    background-color: blue;
+    color: floralwhite;
+    font-size: large;
+}
 #third{
     background-color: blueviolet;
     color: bisque;
