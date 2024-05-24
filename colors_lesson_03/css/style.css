@@ -26,3 +26,7 @@ body{
 .hexa{
     color:#000255;
 }
+.hexa-red{
+   color:  #f00; /* shorter */
+   color:  #ff0000;
+}
