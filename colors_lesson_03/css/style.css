@@ -46,3 +46,8 @@ body{
    color:  #fff; /* shorter */
    color:  #ffffff;
 }
+
+.gray{
+    color: rgb(128, 128, 128);
+    color: hsl(0, 0%, 50%);
+}
