@@ -38,3 +38,11 @@ body{
    color:  #0f0; /* shorter */
    color:  #00ff00;
 }
+.hexa-black{
+   color:  #000; /* shorter */
+   color:  #000000;
+}
+.hexa-white{
+   color:  #fff; /* shorter */
+   color:  #ffffff;
+}
