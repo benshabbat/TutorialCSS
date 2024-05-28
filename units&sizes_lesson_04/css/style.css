@@ -12,6 +12,8 @@ h1{
 }
 
 p{
-    font-size: 0.5rem; /*em and rem are relative to the font size of the parent element and the root element, respectively.
+    /*em and rem are relative to the font size of the parent element and the root element, respectively.*/
+    font-size: 0.5rem;
+    width: 40ch;
     /* font-size: 16px; */
 }
