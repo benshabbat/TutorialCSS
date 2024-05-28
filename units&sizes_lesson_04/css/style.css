@@ -1,7 +1,11 @@
 html{
     font-size: 32px;
 }
-
+body{
+    width: 100vw;
+    height: 100vh;
+    /*vh and vw are relative to the viewport's height and width, respectively.*/
+}
 h1{
     border: 2px dashed red;
     width: 50%;
